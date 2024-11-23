@@ -1,0 +1,23 @@
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.btn{
+    width: max-content;
+    height: auto;
+    padding: 16px;
+    margin-top: 25px;
+}
+
+.gridContainer{
+    display: flex;
+    justify-self: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    border-style: solid;
+    width: 480px;
+    height: 480px;
+    margin-top: 50px;
+}
