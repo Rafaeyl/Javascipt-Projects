@@ -145,3 +145,6 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
 
     UI.showAlert('Deleted a book successfully', 'info');
 });
+
+
+
